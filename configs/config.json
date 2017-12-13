@@ -1,0 +1,8 @@
+{
+    "monitoringPeriod": 20,
+    "minVotingPower": 50,
+    "maxVotingPower": 100,
+    "price": "1.000 SBD",
+    "introductionLink":"https://steemit.com/kr/@jongeun/1-sbd",
+    "lastVotingTimestamp": 1499052049000
+}
